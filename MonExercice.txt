@@ -1,0 +1,20 @@
+L'historique de mes 1er commit:
+commit e2d7c6294c9be18bd02277435c2ea0c597402457 (HEAD -> master)
+Author: Thomas Lemaitre <t.lemaitre@lectra.com>
+Date:   Fri Sep 21 14:24:04 2018 +0200
+
+    ajout de la description de l'exercice
+
+commit 45d45b335b5454ffe3e83a6e1493667ed8c8f763
+Author: Thomas Lemaitre <t.lemaitre@lectra.com>
+Date:   Fri Sep 21 14:20:50 2018 +0200
+
+    Creation des fichiers readme, mon exercice et description
+
+commit 0cefe8f59f0726607f11404977f9ae9b1d6d89c8 (origin/master, origin/HEAD)
+Author: thomlemaitre <43468260+thomlemaitre@users.noreply.github.com>
+Date:   Fri Sep 21 11:36:13 2018 +0200
+
+    Update README.md
+
+    Mon 1er commit
